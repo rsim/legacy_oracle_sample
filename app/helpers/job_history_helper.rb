@@ -1,0 +1,2 @@
+module JobHistoryHelper
+end
